@@ -6,55 +6,55 @@
 [![Account: GitHub](https://img.shields.io/badge/Fares%20Emad-GitHub-2b3137)](https://www.github.com/faresemad/)
 
 ## Junior 
- - [x] Models & Query set
- - [x] Views & Mixins
- - [x] Forms & Form-set
- - [x] Templates & Filters
- - [x] Authentication
+ - [ ] Models & Query set
+ - [ ] Views & Mixins
+ - [ ] Forms & Form-set
+ - [ ] Templates & Filters
+ - [ ] Authentication
 
 ## Mid-Level 
- - [x] Components [ Customization ]
- - [x] Models [ Instance Methods - models vs views - Transaction]
- - [x] Views [ customize mixins ]
- - [x] Templates [ customiza filters & tags ]
- - [x] Translation
- - [x] Payment
- - [x] Channels
- - [x] Celery & Redis
- - [x] Testing 
- - [x] Admin customization 
- - [x] Sessions
- - [x] Cookies
- - [x] Cache
- - [x] Authentication 
- - [x] Swagger
- - [x] Analysis
+ - [ ] Components [ Customization ]
+ - [ ] Models [ Instance Methods - models vs views - Transaction]
+ - [ ] Views [ customize mixins ]
+ - [ ] Templates [ customiza filters & tags ]
+ - [ ] Translation
+ - [ ] Payment
+ - [ ] Channels
+ - [ ] Celery & Redis
+ - [ ] Testing 
+ - [ ] Admin customization 
+ - [ ] Sessions
+ - [ ] Cookies
+ - [ ] Cache
+ - [ ] Authentication 
+ - [ ] Swagger
+ - [ ] Analysis
 
 ## Senior
- - [x] Create or customize Model fields
+ - [] Create or customize Model fields
  - [ ] JS framework ( Vue.js or Ajax )
- - [x] Testing 
- - [x] Docker
+ - [ ] Testing 
+ - [ ] Docker
  - [ ] Security 
 ## Must you know 
- - [x] Deployment 
- - [x] REST API & DOC
- - [x] Git & GitHub
+ - [ ] Deployment 
+ - [ ] REST API & DOC
+ - [ ] Git & GitHub
 
 ## Courses 
 1. **Django with Mosh**
-    - [x] [Part one ↗](https://codewithmosh.com/p/the-ultimate-django-part1)
-    - [x] [Part two ↗](https://codewithmosh.com/p/the-ultimate-django-part2)
-    - [x] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
+    - [ ] [Part one ↗](https://codewithmosh.com/p/the-ultimate-django-part1)
+    - [ ] [Part two ↗](https://codewithmosh.com/p/the-ultimate-django-part2)
+    - [ ] [Part three ↗](https://codewithmosh.com/p/the-ultimate-django-part3)
 2. **Django Core**- [Django Core ↗](https://www.udemy.com/course/django-core/)
-    - [x] Django view 
+    - [ ] Django view 
     - [ ] Django models unleashed - updated & expanded
     - [ ] Django models unleashed - Original Version 
-    - [x] Django class based views unleashed
+    - [ ] Django class based views unleashed
     - [ ] Understanding class based views - original version 
-    - [x] Forms & Formsets
-    - [x] Django templates 
-    - [x] Django translation 
+    - [ ] Forms & Formsets
+    - [ ] Django templates 
+    - [ ] Django translation 
     - [ ] Django user model unleashed
     - [ ] Django tests unleashed
     - [ ] Deployment 
@@ -68,34 +68,34 @@
 
 ## Books
 1. **Django for APIs**
-    - [x] Chapter 1 : Initial set up
-    - [x] Chapter 2 : Web APIs
-    - [x] Chapter 3 : Library Website
-    - [x] Chapter 4 : Library API
-    - [x] Chapter 5 : Todo API
-    - [x] Chapter 6 : Blog API
-    - [x] Chapter 7 : Permission 
-    - [x] Chapter 8 : User Authentication 
-    - [x] Chapter 9 : Viewsets and Routers
-    - [x] Chapter 10 : Schema and Documentation 
-    - [x] Chapter 11 : Production Deployment 
+    - [ ] Chapter 1 : Initial set up
+    - [ ] Chapter 2 : Web APIs
+    - [ ] Chapter 3 : Library Website
+    - [ ] Chapter 4 : Library API
+    - [ ] Chapter 5 : Todo API
+    - [ ] Chapter 6 : Blog API
+    - [ ] Chapter 7 : Permission 
+    - [ ] Chapter 8 : User Authentication 
+    - [ ] Chapter 9 : Viewsets and Routers
+    - [ ] Chapter 10 : Schema and Documentation 
+    - [ ] Chapter 11 : Production Deployment 
 2. **Django 4 by Example** 
-    - [x] Chapter 1 : Building a blog application 
-    - [x] Chapter 2 : Enhancing your blog with advanced features 
-    - [x] Chapter 3 : Extending your blog application 
-    - [x] Chapter 4 : Building a social website 
-    - [x] Chapter 5 : Implementing social Authentication 
+    - [ ] Chapter 1 : Building a blog application 
+    - [ ] Chapter 2 : Enhancing your blog with advanced features 
+    - [ ] Chapter 3 : Extending your blog application 
+    - [ ] Chapter 4 : Building a social website 
+    - [ ] Chapter 5 : Implementing social Authentication 
     - [ ] Chapter 6 : Sharing content on your website 
     - [ ] Chapter 7 : Tracking user action
-    - [x] Chapter 8 : Building an online shop
-    - [x] Chapter 9 : Managing payment and orders
+    - [ ] Chapter 8 : Building an online shop
+    - [ ] Chapter 9 : Managing payment and orders
     - [ ] Chapter 10 : Extending your shop
     - [ ] Chapter 11 : Adding Internationalization to your shop
     - [ ] Chapter 12 : Building an E-Learning platform 
     - [ ] Chapter 13 : Creating a Content management system
     - [ ] Chapter 14 : Rendering and Caching content 
     - [ ] Chapter 15 : Building an API
-    - [x] Chapter 16 : Building a chat server
+    - [ ] Chapter 16 : Building a chat server
     - [ ] Chapter 17 : Going Live
 3. **Django for Professionals**
     - [ ] Docker

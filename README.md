@@ -31,7 +31,7 @@
  - [ ] Analysis
 
 ## Senior
- - [] Create or customize Model fields
+ - [ ] Create or customize Model fields
  - [ ] JS framework ( Vue.js or Ajax )
  - [ ] Testing 
  - [ ] Docker
